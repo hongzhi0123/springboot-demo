@@ -10,9 +10,6 @@ To build an Apache HTTP server image that functions as a reverse proxy and is re
 
 Here is a complete example:
 
----
-
-````markdown name=README.md
 # Apache Reverse Proxy on OpenShift
 
 This guide explains how to build an Apache HTTP server Docker image with custom reverse proxy configurations to deploy on OpenShift.
